@@ -119,6 +119,9 @@ Discount section styles styling starts
 .discount-heading{
     margin-top: 16px;
 }
+.discount-img{
+    width: 70%;
+}
 /*
 ##################################
 ###############################################
