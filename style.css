@@ -66,6 +66,7 @@ Banner styles styling starts
     margin-top: 50px;
     padding: 150px 270px;
     background-position: center;
+    margin-bottom: 120px;
 }
 .banner-text{
     text-align: center;
@@ -95,7 +96,32 @@ Discount section styles styling starts
 ####################################################
 #################################################################
 */
+.discount {
+    margin-bottom: 120px;
+}
+.discount-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.discount-percent{
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+.discount-text{
+    text-align: center;
+    margin-bottom: 48px;
+}
+.discount-small-text{
+    font-weight: 700;
+}
+.discount-heading{
+    margin-top: 16px;
+}
+.discount-img{
 
+}
 /*
 ##################################
 ###############################################
