@@ -9,7 +9,9 @@ For all styles styling starts
 *{
     margin: 0;
 }
-
+body{
+    padding: 0 140px;
+}
 /*
 ##################################
 ###############################################
@@ -45,6 +47,44 @@ shared styles styling starts
 ##################################
 ###############################################
 shared styles styling ends
+####################################################
+#################################################################
+*/
+/*
+##################################
+###############################################
+Banner styles styling starts
+####################################################
+#################################################################
+*/
+.banner{
+    font-family:Merriweather;
+    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('resources/Banner\ Image.png');
+    border-radius: 16px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    padding: 150px 270px;
+    background-position: center;
+}
+.banner-text{
+    text-align: center;
+}
+.banner-sub-title{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+}
+.banner-title{
+    color: rgb(255, 255, 255);
+    font-size: 57px;
+    font-weight: 900;
+    margin-top: 16px;
+}
+/*
+##################################
+###############################################
+Banner styles styling ends
 ####################################################
 #################################################################
 */
