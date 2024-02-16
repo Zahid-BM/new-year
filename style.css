@@ -182,6 +182,52 @@ Party section styles styling ends
 ####################################################
 #################################################################
 */
+/*
+##################################
+###############################################
+JOIN section styles styling starts
+####################################################
+#################################################################
+*/
+.join{
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    border-radius: 16px;
+    padding: 100px 300px;
+    margin-bottom: 120px;
+}
+.join-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.join-text{
+    font-size: 32px;
+    text-align: center;
+}
+.join-text h5 {
+    margin-bottom: 15px;
+}
+span{
+    color: red;
+}
+.join-button{
+    margin-top: 30px;
+    background-color: red;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 16px 32px;
+    font-weight: 600;
+
+}
+
+/*
+##################################
+###############################################
+JOIN section styles styling ends
+####################################################
+#################################################################
+*/
 
 
 
