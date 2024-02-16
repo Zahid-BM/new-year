@@ -119,13 +119,64 @@ Discount section styles styling starts
 .discount-heading{
     margin-top: 16px;
 }
-.discount-img{
+/*
+##################################
+###############################################
+Discount section styles styling ends
+####################################################
+#################################################################
+*/
+/*
+##################################
+###############################################
+Party section styles styling starts
+####################################################
+#################################################################
+*/
+.party-banner{
+    background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('resources/Vectorrr.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+    display: flex;
+    margin-bottom: 120px;
+    padding: 60px 120px 60px 90px;
+    align-items: center;
+}
+.party-text{
+    text-align: left;
+    padding-right: 20px;
+}
+.party-heading{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    margin-bottom: 24px;
 
+}
+.party-description-text{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    margin-bottom: 48px;
+
+}
+
+.party-img{
+    width: 25%;
+    height: 100%;
+}
+.join-now-btn{
+    border: 0;
+    background-color: transparent;
+    color: white;
+    font-weight: 600;
 }
 /*
 ##################################
 ###############################################
-Discount section styles styling starts
+Party section styles styling ends
 ####################################################
 #################################################################
 */
