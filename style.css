@@ -141,7 +141,7 @@ Party section styles styling starts
     border-radius: 16px;
     display: flex;
     margin-bottom: 120px;
-    padding: 60px 120px 60px 90px;
+    padding: 80px 120px 80px 90px;
     align-items: center;
 }
 .party-text{
@@ -165,7 +165,6 @@ Party section styles styling starts
 
 .party-img{
     width: 25%;
-    height: 100%;
 }
 .join-now-btn{
     border: 0;
