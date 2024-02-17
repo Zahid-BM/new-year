@@ -356,7 +356,7 @@ Portfolio section styles styling starts
 
 */
 .portfolio{
-
+    margin-bottom: 120px;
 }
 .portfolio-text-container{
     padding-right: 424px;
@@ -375,9 +375,6 @@ Portfolio section styles styling starts
     margin-top: 16px;
     margin-bottom: 22px;
 }
-.portfolio-paragraph{
-
-}
 .portfolio-image-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -386,6 +383,11 @@ Portfolio section styles styling starts
 }
 .grid-item img{
     width: 100%;
+}
+.grid-item img:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 1px 20px rgb(64, 66, 66);
+    
 }
 /*
 
