@@ -236,31 +236,43 @@ Coming soon section styles styling starts
 
 */
 .coming-soon{
-    
+    display: flex;
+    align-items: center;
+    margin-bottom: 120px;
 }
 .coming-soon-main-text-container{
-    
+    margin-right: 4%;
 }
 .coming-soon-heading{
-    
+    margin-top: 16px;
+    margin-bottom: 22px;
 }
 .coming-soon-text{
-    
+    font-size: medium;
 }
 .circle-image{
-    
+    width: 75%;
 }
-.coming-soon happy-new-year-container{
-    
+.coming-soon-happy-new-year-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-left: 8%;
+
 }
 .year{
-    
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
 }
 .new-year-text{
-    
+    font-size: medium;
+    margin-top: 16px;
+    margin-bottom: 46px;
 }
 .coming-soon-new-year-small-image{
-    
+    width: 50%;
+
 }
 /*
 
