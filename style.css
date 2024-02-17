@@ -392,7 +392,79 @@ Portfolio section styles styling starts
 /*
 
 ###############################################
-Portfolio section styles styling starts
+Portfolio section styles styling ends
+####################################################
+
+*/
+/*
+
+###############################################
+Subscribe section styles styling starts
+####################################################
+
+*/
+.subscribe{
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding: 80px 200px;
+    margin-bottom: 120px;
+}
+.subscribe-container{
+    text-align: center;
+}
+.subscribe-heading{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 40px;
+    margin-bottom: 22px;
+}
+.subscribe-paragraph{
+    margin-bottom: 48px;
+}
+form input{
+    border: 0;
+    border-radius:50px 0 0 50px;
+    background: rgb(255, 255, 255);
+    color: rgba(7, 2, 17, 0.3);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 25px 30px;
+
+}
+.subscribe-btn{
+    border: 0;
+    padding: 24px 56px;
+    border-radius: 0 50px 50px 0;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    background: rgb(255, 0, 0);
+}
+/*
+
+###############################################
+Subscribe section styles styling ends
+####################################################
+
+*/
+/*
+
+###############################################
+Footer section styles styling starts
+####################################################
+
+*/
+
+/*
+
+###############################################
+Footer section styles styling starts
 ####################################################
 
 */
