@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#0a6a77",
+        "terminal.background": "#1c201f",
+        "panel.background": "#090f20",
+        "activityBar.background": "#090f20",
+        "terminalCursor.foreground": "#0877336c",
+        "editor.background": "#18222088",
+        "editorStickyScroll.background": "#07090e",
+        "editor.selectionBackground": "#fbff01",
+        
+        
+    }
+}
