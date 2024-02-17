@@ -9,7 +9,7 @@ Common styles styling starts
 *{
     margin: 0;
 }
-body{
+main{
     padding: 0 140px;
 }
 /*
@@ -460,7 +460,45 @@ Footer section styles styling starts
 ####################################################
 
 */
+footer{
+    background: rgb(7, 2, 17);
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-weight: 500;
+    padding: 120px 140px;
+}
 
+.top-layer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.top-layer-div-2{
+    display: flex;
+    flex-direction: column;
+}
+.mid-layer{
+    text-align: center;
+    margin: 50px 0;
+}
+.mid-layer img{
+    margin-left: 10px;
+}
+.last-layer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+hr{
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+.lni{
+    margin-right: 10px;
+}
+.number{
+    margin-bottom: 16px;
+}
 /*
 
 ###############################################
